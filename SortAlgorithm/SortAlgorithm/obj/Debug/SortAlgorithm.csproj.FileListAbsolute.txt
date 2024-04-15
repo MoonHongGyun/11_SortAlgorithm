@@ -1,0 +1,15 @@
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe.config
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.AssemblyReference.cache
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\MainWindow.g.cs
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\App.g.cs
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm_MarkupCompile.cache
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm_MarkupCompile.lref
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\MainWindow.baml
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.g.resources
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.Properties.Resources.resources
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.GenerateResource.cache
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.exe
+C:\Users\IOT\Desktop\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.pdb
